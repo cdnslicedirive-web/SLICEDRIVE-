@@ -1,11 +1,7 @@
 {
   "videos": [
     {
-      "slug": "J1Hi.mp4",
-      "cdn": "https://cdn2.slicedrive.com/J1Hi.mp4"
-    },
-    {
-      "slug": "z6ePP5ZI1.mp4",
+      "key": "J1Hi.mp4",
       "cdn": "https://cdn2.slicedrive.com/z6ePP5ZI1.mp4"
     }
   ]
